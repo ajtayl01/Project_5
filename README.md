@@ -22,7 +22,7 @@ Command to generate documentation:
 javadoc SortedStack.java
 
 Command to run the program:
-java SortedStack
+java SortedStack.java
 
 ## How It Works
 
